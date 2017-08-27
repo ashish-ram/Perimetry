@@ -8,5 +8,3 @@ Please download the read me file to know how to deploy the currebt working code.
 3. Report: steps to deploy the code running on PC and other precondition for the patient.
 
 
-Regards,
-Ashish Kumar Ram
